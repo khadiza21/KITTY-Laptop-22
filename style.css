@@ -1,0 +1,41 @@
+
+ /* body*/ 
+body{
+    overflow-x: hidden;
+}
+/*button color */
+.button-color{
+    background-color: #e76f51;
+    color: white;
+    padding: 15px;
+    border-radius: 10px;
+   
+}
+/* nav bar text */
+.nav-text-color{
+    color: white;
+    background-color: #264653;
+}
+/* footer color*/
+.footer-color{
+    background-color: #0b0d17;
+    color: white;
+}
+/* image gray scale*/
+.gray{
+    filter: grayscale(1);
+}
+/* icon color */
+.icon-color{
+    color: #264653;
+}
+/* responsive mediaquery for footer */
+@media (max-width:480px) {
+    body{
+        overflow-x: hidden;
+    }
+    .footer-text a{
+       display: block;
+    }   
+ 
+}
