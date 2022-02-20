@@ -12,4 +12,4 @@
 
 
 <h2 style="color:rgb(21, 199, 199);">KITTY Laptop</h2> 
-   <img src="img" alt="">
+  <img src="images/kity-laptop.png" alt="">
