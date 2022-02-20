@@ -1,4 +1,4 @@
-# KITTY Laptop
+# <h1 style="color: aqua;">KITTY Laptop</h1> 
 
 ## Live Site Link : https://hungry-lovelace-84b23c.netlify.app/
 
